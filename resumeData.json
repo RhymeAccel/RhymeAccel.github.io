@@ -1,0 +1,117 @@
+{
+  "main": {
+    "name":"Jeffrey So",
+    "occupation":"Software Developer",
+    "description":"Describe Myself",
+    "image":"profilepic.jpg",
+    "bio":"Bio Goes Here",
+    "contactmessage":"Contact Message",
+    "email": "jeffsh.so@outlook.com",
+    "phone": "647-927-3637",
+    "address":{
+      "street":"33 Glaceport Crescent",
+      "city":"Markham",
+      "state":"Ontario",
+      "zip": "L6C,3C3"
+    },
+    "website": "https://RhymeAccel.github.io",
+    "resumedownload":"./Jeffrey_So_Resume.pdf",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/jeffreyshso/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/RhymeAccel",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"University of Toronto",
+        "degree":"Bachelors of Science, Specializing in Software Engineering",
+        "graduated":"April 2020",
+        "description":"School Experience Description"
+      }
+    ],
+    "work":[
+      {
+        "company": "Elements of Knowledge",
+        "title": "Web Developer / Computer Science Tutor",
+        "years": "September 2020 - Present",
+        "description": "Work Description"
+      },
+      {
+        "company":"Fidelity Investements",
+        "title":"Front-End Web Developer",
+        "years":"January 2019 - April 2019",
+        "description": "Work Description"
+      },
+      {
+        "company":"International Financial Data Services",
+        "title":"Technical Analystr",
+        "years":"April 2018 - August 2018",
+        "description": "Work Description"
+      },
+      {
+        "company":"CI Financial",
+        "title":"Programmer Analyst",
+        "years":"September 2017 - December 2017",
+        "description": "Work Description"
+      }
+    ],
+    "skills":[
+      {
+        "name":"Git",
+        "level":"80%"
+      },
+      {
+        "name":"ReactJS",
+        "level":"70%"
+      },
+      {
+        "name":"CSS",
+        "level":"70%"
+      },
+      {
+        "name":"HTML5",
+        "level":"60%"
+      },
+      {
+        "name":"Java",
+        "level":"70%"
+      },
+      {
+        "name":"Python",
+        "level":"60%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Elements of Knowledge Arcade",
+        "category":"Online Learning Platform for all courses offered by EOK",
+        "image":"EOK.png",
+        "url":"https://www.eokarcade.com"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user":"Kareem Abdul Jabbar"
+      },
+      {
+        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user":"Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
