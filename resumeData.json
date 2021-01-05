@@ -2,9 +2,9 @@
   "main": {
     "name":"Jeffrey So",
     "occupation":"Software Developer",
-    "description":"Describe Myself",
+    "description":"Newly Graduated from the University of Toronto with a Bachelors in Computer Science.",
     "image":"profilepic.jpg",
-    "bio":"Bio Goes Here",
+    "bio":"I am a gamer at heart. I love learning and understanding the mechanics of video games in order to improve my performance, exploiting my knowledge about the game to gain a competitive edge (until it gets patched out). With First Person Shooters, being my genre of choice, it enables me to throttle my brain to come up with creative solutions to heat-of-the-moment problems. Similarly with coding, I enjoy figuring out how programs and tools work and the creative freedom that coding offers in terms of the solution to any 1 problem. Adhereing to my inner competitive gamer paradigm, if a problem is not inherently impossible to solve, my stubborness allows me to persist until I achieve satisfaction.",
     "contactmessage":"Contact Message",
     "email": "jeffsh.so@outlook.com",
     "phone": "647-927-3637",
@@ -35,60 +35,135 @@
       {
         "school":"University of Toronto",
         "degree":"Bachelors of Science, Specializing in Software Engineering",
-        "graduated":"April 2020",
-        "description":"School Experience Description"
+        "graduated":"April 2016 - April 2020",
+        "description":""
       }
     ],
     "work":[
       {
         "company": "Elements of Knowledge",
-        "title": "Web Developer / Computer Science Tutor",
+        "title": "Front-End Web Developer / Computer Science Tutor",
         "years": "September 2020 - Present",
-        "description": "Work Description"
+        "description": "Mainly as a part-time position, to keep my skills from rusting during Covid-19, I am assisting in the creation of a web platform for EoK so that they can migrate their teaching material onto an online platform to adhere to current world-wide safety protocols. Additionally, I am teaching various highschool students the basics of programming using Python or basic Object Oriented Programming using Java."
       },
       {
-        "company":"Fidelity Investements",
+        "company":"Fidelity Clearing Canada",
         "title":"Front-End Web Developer",
         "years":"January 2019 - April 2019",
-        "description": "Work Description"
+        "description": "Working for Fidelity Clearing Canada, gave me one of the first opportunities to work alongside the rest of the team in an Agile environment, as well as psudo full stack development. Although I was primarily responsible for building front-end SPA pages using the Angular framework, I was occasionally given the opportunity to work with the back-end developers to learn and write the SQL queries and respective APIs needed to build the pages I was in charge of."
       },
       {
         "company":"International Financial Data Services",
-        "title":"Technical Analystr",
+        "title":"Technical Analyst",
         "years":"April 2018 - August 2018",
-        "description": "Work Description"
+        "description": "During my time here at IFDS, I worked with fellow student co-ops in validating and updating automation processes currently being used throughout our department. This involved syncing up different enviroments, migrating new code bases to old environments as well as cleaning out outdated or left over scripts."
       },
       {
         "company":"CI Financial",
         "title":"Programmer Analyst",
         "years":"September 2017 - December 2017",
-        "description": "Work Description"
+        "description": "For the majority of my time working at CI Financial, I was tasked with assisting in the automation of a handful of legacy bash scripts using the automation tool AutoSys. Along with making minor updates to modernize certain depreciated methods, I assisted in setting-up, deploying, and maintaining the processes for my respective code bases."
+      }
+    ],
+    "languages":[
+      {
+        "name":"Python"
+      },
+      {
+        "name":"Java"
+      },
+      {
+        "name":"JavaScript (Reactjs/Angularjs)"
+      },
+      {
+        "name":"HTML"
+      },
+      {
+        "name":"Bash"
+      },
+      {
+        "name":"MySQL"
+      }
+    ],
+    "methodologies":[
+      {
+        "name":"Agile"
+      },
+      {
+        "name":"Waterfall"
+      },
+      {
+        "name":"Kanban"
+      }
+    ],
+    "technologies":[
+      {
+        "name":"Jira"
+      },
+      {
+        "name":"BitBucket"
+      },
+      {
+        "name":"Git"
       }
     ],
     "skills":[
       {
-        "name":"Git",
-        "level":"80%"
+        "type":"Languages",
+        "skill":[
+          {
+            "name":"Python"
+          },
+          {
+            "name":"Java"
+          },
+          {
+            "name":"JavaScript"
+          },
+          {
+            "name":"HTML"
+          },
+          {
+            "name":"Bash"
+          },
+          {
+            "name":"MySQL"
+          }
+        ]
       },
       {
-        "name":"ReactJS",
-        "level":"70%"
+        "type": "Methodologies",
+        "skill": [
+          {
+            "name":"Reactjs"
+          },
+          {
+            "name":"Angularjs"
+          },
+          {
+            "name":"Agile"
+          },
+          {
+            "name":"Waterfall"
+          },
+          {
+            "name":"Kanban"
+          }
+        ]
       },
       {
-        "name":"CSS",
-        "level":"70%"
-      },
-      {
-        "name":"HTML5",
-        "level":"60%"
-      },
-      {
-        "name":"Java",
-        "level":"70%"
-      },
-      {
-        "name":"Python",
-        "level":"60%"
+        "type": "Technologies",
+        "skill": [
+          {
+            "name":"Jira"
+          },
+          {
+            "name":"BitBucket"
+          },
+          {
+            "name":"Git"
+          }
+        ]
       }
     ]
   },
@@ -99,6 +174,12 @@
         "category":"Online Learning Platform for all courses offered by EOK",
         "image":"EOK.png",
         "url":"https://eokarcade.com"
+      },
+      {
+        "title":"TimeTaBros",
+        "category":"A school project designed to be a fusion between timetable scheduler and digital community",
+        "image":"TimeTaBros.png",
+        "url":"https://github.com/RhymeAccel/project-timetabros"
       }
     ]
   },
