@@ -65,48 +65,6 @@
         "description": "For the majority of my time working at CI Financial, I was tasked with assisting in the automation of a handful of legacy bash scripts using the automation tool AutoSys. Along with making minor updates to modernize certain depreciated methods, I assisted in setting-up, deploying, and maintaining the processes for my respective code bases."
       }
     ],
-    "languages":[
-      {
-        "name":"Python"
-      },
-      {
-        "name":"Java"
-      },
-      {
-        "name":"JavaScript (Reactjs/Angularjs)"
-      },
-      {
-        "name":"HTML"
-      },
-      {
-        "name":"Bash"
-      },
-      {
-        "name":"MySQL"
-      }
-    ],
-    "methodologies":[
-      {
-        "name":"Agile"
-      },
-      {
-        "name":"Waterfall"
-      },
-      {
-        "name":"Kanban"
-      }
-    ],
-    "technologies":[
-      {
-        "name":"Jira"
-      },
-      {
-        "name":"BitBucket"
-      },
-      {
-        "name":"Git"
-      }
-    ],
     "skills":[
       {
         "type":"Languages",
@@ -118,7 +76,7 @@
             "name":"Java"
           },
           {
-            "name":"JavaScript"
+            "name":"JavaScript (Reactjs/Angularjs)"
           },
           {
             "name":"HTML"
@@ -134,12 +92,6 @@
       {
         "type": "Methodologies",
         "skill": [
-          {
-            "name":"Reactjs"
-          },
-          {
-            "name":"Angularjs"
-          },
           {
             "name":"Agile"
           },
