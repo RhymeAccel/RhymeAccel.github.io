@@ -2,7 +2,7 @@
   "main": {
     "name":"Jeffrey So",
     "occupation":"Software Developer",
-    "description":"Newly Graduated from the University of Toronto with a Bachelors in Computer Science.",
+    "description":"Graduated from the University of Toronto with a Bachelors in Computer Science.",
     "image":"profilepic.jpg",
     "bio":"I am a gamer at heart. I love learning and understanding the mechanics of video games in order to improve my performance, exploiting my knowledge about the game to gain a competitive edge (until it gets patched out). With First Person Shooters, being my genre of choice, it enables me to throttle my brain to come up with creative solutions to heat-of-the-moment problems. Similarly with coding, I enjoy figuring out how programs and tools work and the creative freedom that coding offers in terms of the solution to any 1 problem. Adhereing to my inner competitive gamer paradigm, if a problem is not inherently impossible to solve, my stubborness allows me to persist until I achieve satisfaction.",
     "contactmessage":"Contact Message",
@@ -19,7 +19,7 @@
     "social":[
       {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/jeffreyshso/",
+        "url":"https://www.linkedin.com/in/jeffreyshso",
         "className":"fa fa-linkedin"
       },
       {
@@ -132,18 +132,6 @@
         "category":"A school project designed to be a fusion between timetable scheduler and digital community",
         "image":"TimeTaBros.png",
         "url":"https://github.com/RhymeAccel/project-timetabros"
-      }
-    ]
-  },
-  "testimonials":{
-    "testimonials":[
-      {
-        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user":"Kareem Abdul Jabbar"
-      },
-      {
-        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user":"Steve Wozniak... impersonator"
       }
     ]
   }
