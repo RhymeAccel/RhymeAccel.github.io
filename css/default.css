@@ -147,7 +147,7 @@ body {
    background: #fff;
    font-family: 'opensans-regular', sans-serif;
    font-weight: normal;
-   font-size: 15px;
+   font-size: 20px;
    line-height: 30px;
 	color: #838C95;
 
@@ -595,8 +595,8 @@ input[type="checkbox"] { display: inline; }
 /* default
 --------------------------------------------------------------- */
 .row {
-   width: 96%;
-   max-width: 1020px;
+   width: 100%;
+   max-width: 1440px;
    margin: 0 auto;
 }
 /* fixed width for IE8 */
@@ -811,9 +811,9 @@ properly.
 }
 
 .social-links{
-   font-size: 30px
+   font-size: 40px
 }
 
 .fa {
-   margin-right: 10px
+   margin-right: 20px
 }

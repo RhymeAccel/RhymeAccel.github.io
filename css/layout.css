@@ -198,7 +198,7 @@ ul#nav li.current a { color: #F06000; }
 #about a:hover, #about a:focus { color: #11ABB0; }
 
 #about h2 {
-   font: 22px/30px 'opensans-bold', sans-serif;
+   font: 25px/33px 'opensans-bold', sans-serif;
    color: #fff;
    margin-bottom: 12px;
 }
@@ -208,9 +208,10 @@ ul#nav li.current a { color: #F06000; }
 }
 #about .profile-pic {
    position: relative;
-   width: 120px;
-   height: 120px;
+   width: 250px;
+   height: 250px;
    border-radius: 100%;
+   margin-top:50px;
 }
 #about .contact-details { width: 41.66667%; }
 #about .download {
@@ -268,7 +269,7 @@ ul#nav li.current a { color: #F06000; }
    border-bottom: 1px solid #E8E8E8;
 }
 #resume .info {
-   font: 16px/24px 'librebaskerville-italic', serif;
+   font: 20px/28px 'librebaskerville-italic', serif;
    color: #6E7881;
    margin-bottom: 18px;
    margin-top: 9px;
@@ -829,7 +830,7 @@ call-to-action .button {
 }
 
 #contact h4 {
-   font: 16px/24px 'opensans-bold', sans-serif;
+   font: 28px/36px 'opensans-bold', sans-serif;
    color: #EBEEEE;
    margin-bottom: 6px;
 }
