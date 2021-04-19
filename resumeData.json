@@ -5,7 +5,7 @@
     "description":"Graduated from the University of Toronto with a Bachelors in Computer Science.",
     "image":"profilepic.jpg",
     "bio":"I am a gamer at heart. I love learning and understanding the mechanics of video games in order to improve my performance, exploiting my knowledge about the game to gain a competitive edge (until it gets patched out). With First Person Shooters, being my genre of choice, it enables me to throttle my brain to come up with creative solutions to heat-of-the-moment problems. Similarly with coding, I enjoy figuring out how programs and tools work and the creative freedom that coding offers in terms of the solution to any 1 problem. Adhereing to my inner competitive gamer paradigm, if a problem is not inherently impossible to solve, my stubborness allows me to persist until I achieve satisfaction.",
-    "contactmessage":"Contact Message",
+    "contactmessage":"",
     "email": "jeffsh.so@outlook.com",
     "phone": "647-927-3637",
     "address":{
@@ -15,7 +15,7 @@
       "zip": ""
     },
     "website": "https://rhymeaccel.github.io",
-    "resumedownload":"JeffreySoResume.pdf",
+    "resumedownload":"./JeffreySoResume.pdf",
     "social":[
       {
         "name":"linkedin",
@@ -30,7 +30,7 @@
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"",
     "education":[
       {
         "school":"University of Toronto",
