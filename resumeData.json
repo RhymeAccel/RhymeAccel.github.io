@@ -15,7 +15,7 @@
       "zip": "L6C,3C3"
     },
     "website": "https://rhymeaccel.github.io",
-    "resumedownload":"./Jeffrey So Resume.pdf",
+    "resumedownload":"./JeffreySoResume.pdf",
     "social":[
       {
         "name":"linkedin",
@@ -42,7 +42,7 @@
     "work":[
       {
         "company": "Elements of Knowledge",
-        "title": "Front-End Web Developer / Computer Science Tutor",
+        "title": "Full-Stack Developer / Computer Science Tutor",
         "years": "September 2020 - Present",
         "description": "Mainly as a part-time position, to keep my skills from rusting during Covid-19, I am assisting in the creation of a web platform for EoK so that they can migrate their teaching material onto an online platform to adhere to current world-wide safety protocols. Additionally, I am teaching various highschool students the basics of programming using Python or basic Object Oriented Programming using Java."
       },
