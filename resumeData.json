@@ -9,13 +9,13 @@
     "email": "jeffsh.so@outlook.com",
     "phone": "647-927-3637",
     "address":{
-      "street":"33 Glaceport Crescent",
-      "city":"Markham",
-      "state":"Ontario",
-      "zip": "L6C,3C3"
+      "street":"",
+      "city":"",
+      "state":"",
+      "zip": ""
     },
     "website": "https://rhymeaccel.github.io",
-    "resumedownload":"./JeffreySoResume.pdf",
+    "resumedownload":"public/JeffreySoResume.pdf",
     "social":[
       {
         "name":"linkedin",
