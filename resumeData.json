@@ -15,7 +15,7 @@
       "zip": ""
     },
     "website": "https://rhymeaccel.github.io",
-    "resumedownload":"./Resume.pdf",
+    "resumedownload":"src/Resume.pdf",
     "social":[
       {
         "name":"linkedin",
