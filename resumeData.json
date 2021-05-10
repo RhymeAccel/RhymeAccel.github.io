@@ -15,7 +15,7 @@
       "zip": ""
     },
     "website": "https://rhymeaccel.github.io",
-    "resumedownload":"./JeffreySoResume.pdf",
+    "resumedownload":"./Jeffrey So Resume.pdf",
     "social":[
       {
         "name":"linkedin",
@@ -132,6 +132,12 @@
         "category":"A school project designed to be a fusion between timetable scheduler and digital community",
         "image":"TimeTaBros.png",
         "url":"https://github.com/RhymeAccel/project-timetabros"
+      },
+      {
+        "title":"Goldie Canada",
+        "category": "A community website for elderly people to get together and maintain physical and mental wellbeing during and post-COVID-19",
+        "image":"Goldie.png",
+        "url":"https://goldiecanada.ca/"
       }
     ]
   }
