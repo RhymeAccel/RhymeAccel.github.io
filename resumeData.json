@@ -41,9 +41,15 @@
     ],
     "work":[
       {
+        "company": "Cubepon Corp. / Fascinating Adventures / Goldie Canada",
+        "title": "Administrative Support",
+        "years":"April 2020 - June 2021",
+        "description":"Helping out an acquaintence of mine set up their businesses, almost akin to startups, I assisted in the foundational logistics of multiple platforms including: building and maintaining websites/webpages, trademarking business products and names, configuring and setting up business emails and accounts across multiple service platforms."
+      },
+      {
         "company": "Elements of Knowledge",
         "title": "Full-Stack Developer / Computer Science Tutor",
-        "years": "September 2020 - Present",
+        "years": "September 2020 - June 2021",
         "description": "Mainly as a part-time position, to keep my skills from rusting during Covid-19, I am assisting in the creation of a web platform for EoK so that they can migrate their teaching material onto an online platform to adhere to current world-wide safety protocols. Additionally, I am teaching various highschool students the basics of programming using Python or basic Object Oriented Programming using Java."
       },
       {
