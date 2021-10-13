@@ -4,7 +4,7 @@
     "occupation":"Software Developer",
     "description":"Graduated from the University of Toronto with a Bachelors in Computer Science.",
     "image":"profilepic.jpg",
-    "bio":"I am a gamer at heart. I love learning and understanding the mechanics of video games in order to improve my performance, exploiting my knowledge about the game to gain a competitive edge (until it gets patched out). With First Person Shooters, being my genre of choice, it enables me to throttle my brain to come up with creative solutions to heat-of-the-moment problems. Similarly with coding, I enjoy figuring out how programs and tools work and the creative freedom that coding offers in terms of the solution to any 1 problem. Adhereing to my inner competitive gamer paradigm, if a problem is not inherently impossible to solve, my stubborness allows me to persist until I achieve satisfaction.",
+    "bio":"I am a gamer at heart. I love learning and understanding the mechanics of video games in order to improve my performance, exploiting my knowledge about the game to gain a competitive edge (until it gets patched out) as well as flex my creative solutions to heat-of-the-moment problems. Similarly with coding, I enjoy figuring out how programs and tools work and appreciate the creative freedom and variety of solutions to any 1 problem. Adhereing to my inner competitive paradigm, if a problem is not inherently impossible to solve, my stubborness allows me to persist until I achieve satisfaction. On the side, whenever I am not coding or gaming, I like other problem solving activities like Bouldering.",
     "contactmessage":"",
     "email": "jeffsh.so@outlook.com",
     "phone": "647-927-3637",
@@ -43,7 +43,7 @@
       {
         "company": "Cubepon Corp. / Fascinating Adventures / Goldie Canada",
         "title": "Administrative Support",
-        "years":"April 2020 - June 2021",
+        "years":"April 2021 - June 2021",
         "description":"Helping out an acquaintence of mine set up their businesses, almost akin to startups, I assisted in the foundational logistics of multiple platforms including: building and maintaining websites/webpages, trademarking business products and names, configuring and setting up business emails and accounts across multiple service platforms."
       },
       {
@@ -92,6 +92,12 @@
           },
           {
             "name":"MySQL"
+          },
+          {
+            "name":"Ruby on Rails (Learning In-Progress)"
+          },
+          {
+            "name":"PHP (Learning In-Progress)"
           }
         ]
       },
